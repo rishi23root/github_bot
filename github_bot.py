@@ -166,7 +166,7 @@ class git_module(object):
 if __name__ == '__main__':
 	username = ''   # save your username here
 	password = '' # save your password here
-	default_project_dir = 'D:\\'
+	default_project_dir = 'D:\\'   # Your folder in your pc where you store all of your project
 
 	# python module_name commend name
 	try :
