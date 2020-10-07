@@ -1,6 +1,8 @@
 # github_bot 😎
 This bot is for simplyfy the process of creating and updaing github repository 
 
+## clone this repo open the github_bot.py file and update username,password and default_project_dir 
+
 ## first place github_bot.py in the default directory of python to use it from any directory 🤠
 I place it in `C:\Python38` folder 
 
