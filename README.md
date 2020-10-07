@@ -5,12 +5,12 @@ This bot is for simplyfy the process of creating and updaing github repository
 I place it in `C:\Python38` folder 
 
 # by simple two commends 🤯
- - To create a folder on pc and repository on github of Project name
+ - To create a **project folder** on pc and **repository on github** of Project name and **start vscode on that folder**
 ```
 python -m github_bot start_project <project name>
 ```
 
- -To update the repository after saving the file and complete the work
+ -To update the **git repository** after saving the file and complete the work
 ```
 python -m github_bot update_project <project name>
 ```
