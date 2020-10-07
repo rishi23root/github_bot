@@ -1,9 +1,7 @@
 from github import Github
 import sys
 import os
-from threading import Thread
 import random
-from PIL import Image
 
 class git_module(object):
 	def __init__(self,username,password):
